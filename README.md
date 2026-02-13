@@ -67,7 +67,6 @@ Outputs for each test case:
 - Total completion times
 
 ## Reference
-
 Lin, X., Wang, Y., Xie, Q., & Pedram, M. (2014). Energy and Performance-Aware Task Scheduling in a Mobile Cloud Computing Environment. *2014 IEEE International Conference on Cloud Computing*, 192-199.
 
 ## Key Results
