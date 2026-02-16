@@ -59,7 +59,6 @@ Default system parameters:
 - **Wireless power**: P_s=0.5W
 - **Task migration constraint**: T_max ≈ 1.5 × T_total_initial
 
-
 Outputs for each test case:
 - Initial scheduling results (time-optimized)
 - Final scheduling results (energy-optimized)
